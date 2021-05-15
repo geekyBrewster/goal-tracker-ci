@@ -20,7 +20,7 @@
     "angular-xeditable": "^0.8.0",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.13.3",
-    "bootstrap": "^3.3.5",
+    "bootstrap": "^3.4.1",
     "express": "^4.13.1",
     "express-session": "^1.13.0",
     "jquery": "^2.1.4",
